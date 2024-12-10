@@ -52,4 +52,4 @@ This project is licensed under the MIT License.
 For questions or feedback, please contact:
 
 Author: Moogie3
-Email: [your-email@example.com]
+Email: [jefrydwijaya3@gmail.com]
